@@ -17,8 +17,8 @@ Each article should show:
 
 * Image 
 * Title
-* description truncated to 100 chars followd by an ellipses if the provided summary is longer
-* Article date as GMT formatted like these examples: 12th November 2025, 2nd December 2025
+* description, truncated to 100 chars followd by an ellipses if the provided summary is longer
+* Article date, GMT, formatted as in these examples: 12th November 2025, 2nd December 2025
 * Read more link going to the erxternal site
 
 Articles should be listed by descending date order
