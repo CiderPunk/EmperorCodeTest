@@ -27,6 +27,7 @@ HTML and CSS is already created for these components.
 
 ## Hints
 We will test with other XML feeds that may not be 100% reliable or performant, your code should be able to handle these cases gracefully.
+As with any modern secure website we've added a (minimal) Content security policy, you can make changes to it.
 
 ## Instructions
 Clone down or fork this repositiory (preferably) and give us the url to your updated version!
